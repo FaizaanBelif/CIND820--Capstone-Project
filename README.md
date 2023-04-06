@@ -13,7 +13,7 @@ As mentioned above, the dataset consists of direct marketing campaigns data of a
 
 # Model Evaluation
 
-Train Test Split
-Cross Validation
-Plotting and Comparing ROC Curves for the classifiers
-Feature Selection and Ranking
+  Train Test Split
+  Cross Validation
+  Plotting and Comparing ROC Curves for the classifiers
+  Feature Selection and Ranking
