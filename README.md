@@ -1,4 +1,3 @@
-# Final-Project
 # A project to analyze and predict term deposit through Bank Telemarketing Predictions
 
 
